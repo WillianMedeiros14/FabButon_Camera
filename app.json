@@ -1,0 +1,12 @@
+{
+  "name": "appCamera",
+  "displayName": "appCamera",
+  "expo": {
+    "name": "appCamera",
+    "slug": "appCamera",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
