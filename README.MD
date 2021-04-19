@@ -7,6 +7,7 @@
 
 ## 🎁 Demonstração de como ficou o aplicativo
 <h1 align="center">
+  <img alt="Image App" title="Image App" src="image/imgGif.gif" width=200/>
   <img alt="Image App" title="Image App" src="image/img.jpg" width=200/>
   <img alt="Image App" title="Image App" src="image/img1.jpg" width=200/>
   <img alt="Image App" title="Image App" src="image/img2.jpg" width=200/>
